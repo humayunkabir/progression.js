@@ -1,0 +1,20 @@
+{
+  "name": "progression.js",
+  "version": "0.1.0",
+  "description": "This unit introduces sequences and series.  It also explores particular types of sequence known as arithmetic progressions (APs) and geometric progressions (GPs), and the corresponding series.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humayunkabir/progression.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humayunkabir/progression.js/issues"
+  },
+  "homepage": "https://github.com/humayunkabir/progression.js#readme"
+}
